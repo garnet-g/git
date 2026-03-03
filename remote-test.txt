@@ -1,1 +1,1 @@
-Testing the remote connection
+This is a test
