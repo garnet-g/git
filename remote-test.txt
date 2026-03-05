@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is a test
+=======
+Testing the remote connection
+this is a cloud update
+>>>>>>> 3af42a111d0185f47d06a1d42f5c574417f9118d
